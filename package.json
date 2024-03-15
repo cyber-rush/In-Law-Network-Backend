@@ -1,0 +1,14 @@
+{
+  "name": "in-law-network-backend",
+  "version": "1.0.0",
+  "description": "Biodata App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ujjawal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
